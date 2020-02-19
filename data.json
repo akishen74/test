@@ -1,7 +1,5 @@
-[
-	{
-		"status":"images/logo-01.jpg",
-		"meta":"EPSON 愛普生",
-		"game_version":"印表機及耗材 / 標籤機及耗材 / 運動手錶(環) / 電子紙錶 / 投影機"
-	}
-]
+{
+	"status": "images/logo-01.jpg",
+	"meta": "EPSON 愛普生",
+	"game_version": "印表機及耗材 / 標籤機及耗材 / 運動手錶(環) / 電子紙錶 / 投影機"
+}
