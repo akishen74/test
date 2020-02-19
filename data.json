@@ -1,0 +1,332 @@
+[
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=EPSON&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-01.jpg",
+		"name":"EPSON 愛普生",
+		"detail":"印表機及耗材 / 標籤機及耗材 / 運動手錶(環) / 電子紙錶 / 投影機"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=Intel&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-02.jpg",
+		"name":"Intel 英特爾",
+		"detail":"CPU / MB / NUC / SSD"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=Microsoft&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-03.jpg",
+		"name":"Microsoft 微軟",
+		"detail":"軟體 / 鍵盤 / 滑鼠"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=WD&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-04.jpg",
+		"name":"Western Digital 威騰",
+		"detail":"內接硬碟 / 外接硬碟 / SSD"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=%e5%a8%81%e5%89%9b&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-08.jpg",
+		"name":"ADATA 威剛",
+		"detail":"DRAM / SSD / FLASH / 記憶卡 / 外接硬碟 / 行動電源"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=AGfun&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-09.jpg",
+		"name":"AGfun 銀濎",
+		"detail":"多媒體撥放器"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=AOC&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-10.jpg",
+		"name":"AOC 嘉捷科技",
+		"detail":"LCD螢幕"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=Seagate&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-62.jpg",
+		"name":"Seagate 希捷",
+		"detail":"內接硬碟"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=Silicon&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-63.jpg",
+		"name":"SP 廣穎",
+		"detail":"DRAM / SSD / FLASH / 記憶卡"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=APC&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-11.jpg",
+		"name":"APC 施耐德",
+		"detail":"UPS不斷電"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=%e8%8f%af%e6%93%8e&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-12.jpg",
+		"name":"Asrock 華擎",
+		"detail":"主機板"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=00020002&ProductType=0&BrainName=ASRock&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-57.jpg",
+		"name":"ASRock Rack 永擎",
+		"detail":"伺服器及工作站主機板 / 伺服器系統"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=ASUSTOR&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-13.jpg",
+		"name":"ASUSTOR 華芸",
+		"detail":"NAS"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=%e5%9c%93%e5%b1%95&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-14.jpg",
+		"name":"AVer 圓展",
+		"detail":"實物投影機 / 充電車(櫃) / 遠距教學錄播系統 / 視訊會議系統"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=%e5%9c%93%e5%89%9b&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-15.jpg",
+		"name":"AVerMedia 圓剛",
+		"detail":"週邊"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=braVod&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-16.jpg",
+		"name":"braVod 元暢",
+		"detail":"繪圖板"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=DrayTek&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-18.jpg",
+		"name":"DrayTek 居易科技",
+		"detail":"網通"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=EATON&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-19.jpg",
+		"name":"EATON 伊頓飛瑞",
+		"detail":"UPS不斷電"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=Edge-corE&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-20.jpg",
+		"name":"Edge-corE 鈺登科技",
+		"detail":"網通"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=0007&ProductType=0&BrainName=EDIMAX&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-21.jpg",
+		"name":"EDIMAX 訊舟",
+		"detail":"網通"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=EVGA&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-22.jpg",
+		"name":"EVGA 艾維克",
+		"detail":"顯示卡 / 電源供應器"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=%e9%a3%9b%e7%a2%9f&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-23.jpg",
+		"name":"FT 飛碟",
+		"detail":"UPS不斷電"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=0001&ProductType=0&BrainName=GIGABYTE&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-24.jpg",
+		"name":"GIGABYTE 技嘉",
+		"detail":"筆記型電腦"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=Gigastone&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-25.jpg",
+		"name":"Gigastone 立達",
+		"detail":"FLASH / 行動電源"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=High&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-58.jpg",
+		"name":"HighPoint 峰際科技",
+		"detail":"磁碟陣列 / 外接儲存 / Thunderbolt"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=JECTOR&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-26.jpg",
+		"name":"JECTOR 捷達",
+		"detail":"投影機 / 實物投影機 / 充電車 / 電子講桌 / 電子白板 / 無縫電視牆"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=%e9%ba%97%e8%87%ba&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-30.jpg",
+		"name":"LEADTEK 麗臺",
+		"detail":"繪圖卡"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=LG&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-31.jpg",
+		"name":"LG 樂金",
+		"detail":"LCD螢幕 / 數位看板 / 家電"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=LITE-ON&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-32.jpg",
+		"name":"Liteon 光寶",
+		"detail":"SSD / 燒錄機"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=mcafee&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-34.jpg",
+		"name":"McAfee 邁克菲",
+		"detail":"防毒軟體"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=Micron&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-61.jpg",
+		"name":"Micron 美光",
+		"detail":"SSD / RAM / FLASH"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=0002&ProductType=0&BrainName=MSI&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-36.jpg",
+		"name":"MSI 微星",
+		"detail":"主機板 / 顯示卡 / AIO"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=NETGEAR&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-64.jpg",
+		"name":"NETGEAR",
+		"detail":"NAS / 網通"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=NOD32&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-37.jpg",
+		"name":"NOD32",
+		"detail":"防毒軟體"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=Optoma&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-38.jpg",
+		"name":"Optoma 奧圖碼",
+		"detail":"投影機"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=%e7%a7%91%e9%a2%a8&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-39.jpg",
+		"name":"PCM 科風",
+		"detail":"UPS不斷電"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=0004&ProductType=0&BrainName=PHILIPS&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-40.jpg",
+		"name":"PHILIPS 嘉捷科技",
+		"detail":"LCD螢幕 / 多媒體顯示器"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=Pioneer&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-41.jpg",
+		"name":"Pioneer 先鋒",
+		"detail":"燒錄機 / SSD"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=PLEXTOR&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-42.jpg",
+		"name":"PLEXTOR 浦科特",
+		"detail":"SSD"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=%e6%92%bc%e8%a8%8a&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-43.jpg",
+		"name":"PowerColor 撼訊",
+		"detail":"顯示卡"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=QNAP&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-44.jpg",
+		"name":"QNAP 威聯通",
+		"detail":"NAS"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=QNO&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-45.jpg",
+		"name":"QNO 俠諾",
+		"detail":"網通"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?InData=1&PriceMode=0&CategoryNo=&Action=Search&type=1&keyword=icatch&StartNo=20&ProductType=&ViewType=2&OrderBy=&Asc=&PageSize=30&page=&BrainName=&MinPrice=&MaxPrice=",
+		"img":"images/logo-65.jpg",
+		"name":"iCatch 可取",
+		"detail":"監控主機 / 攝影機"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=SUNELL&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-59.jpg",
+		"name":"SUNELL 景陽科技",
+		"detail":"監控主機 / 攝影機"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?InData=1&PriceMode=0&CategoryNo=&Action=Search&type=1&keyword=%E6%98%87%E9%8A%B3&StartNo=20&ProductType=&ViewType=2&OrderBy=&Asc=&PageSize=30&page=&BrainName=&MinPrice=&MaxPrice=",
+		"img":"images/logo-66.jpg",
+		"name":"Hi Sharp 昇銳",
+		"detail":"監控主機 / 攝影機"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=Synology&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-50.jpg",
+		"name":"Synology 群暉",
+		"detail":"NAS"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=%e6%9b%9c%e8%b6%8a&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-52.jpg",
+		"name":"Thermaltake 曜越",
+		"detail":"機殼 / 電源供應器"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=0001&ProductType=0&BrainName=TOSHIBA&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-53.jpg",
+		"name":"TOSHIBA 東芝",
+		"detail":"筆記型電腦"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=TP-LINK&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-54.jpg",
+		"name":"TP-LINK 聯洲國際",
+		"detail":"網通"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=vivitek&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-55.jpg",
+		"name":"vivitek 台達",
+		"detail":"投影機"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=ZYXEL&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-56.jpg",
+		"name":"ZYXEL 合勤",
+		"detail":"網通"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=%e9%9b%b7%e6%9f%8f&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-46.jpg",
+		"name":"RAPOO 雷柏",
+		"detail":"鍵盤 / 滑鼠"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?InData=1&PriceMode=0&CategoryNo=00030004&Action=Search&type=1&keyword=razer&StartNo=20&ProductType=&ViewType=1&OrderBy=&Asc=&PageSize=30&page=&BrainName=&MinPrice=&MaxPrice=",
+		"img":"images/logo-67.jpg",
+		"name":"RAZER 雷蛇",
+		"detail":"筆記型電腦"
+	},
+	{
+		"url":"http://www.genb2b.com/Product/ProductSearch.aspx?Action=Search&type=1&keyword=&CategoryNo=&ProductType=0&BrainName=Supermicro&MinPrice=&MaxPrice=&ViewType=1&Asc2=0&OrderBy2=0&PageSize=30&PriceMode=0&StartNo=20&InData=1",
+		"img":"images/logo-60.jpg",
+		"name":"Supermicro 美超微",
+		"detail":"主機板 / 伺服器 / 儲存"
+	},
+	{
+		"url":"http://www.genb2b.com/Notes/ProCateView.aspx?type=2",
+		"img":"images/logo-more.jpg",
+		"name":"",
+		"detail":""
+	}
+]
